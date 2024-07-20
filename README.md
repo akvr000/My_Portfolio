@@ -29,7 +29,7 @@ In the resume section, you can view and download my resume. It outlines my educa
 The contact section provides ways to get in touch with me. Feel free to reach out for collaborations, job opportunities, or any other inquiries.
 
 ### License
-This project is licensed under the MIT License.
+This project is licensed under the Apache -2.0 License.
 
 ### Contact
 - Name: Akvr
