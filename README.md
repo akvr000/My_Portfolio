@@ -32,6 +32,5 @@ The contact section provides ways to get in touch with me. Feel free to reach ou
 This project is licensed under the Apache -2.0 License.
 
 ### Contact
-- Name: Akvr
 - GitHub: https://github.com/akvr000
 
