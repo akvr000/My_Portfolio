@@ -33,6 +33,5 @@ This project is licensed under the Apache -2.0 License.
 
 ### Contact
 - Name: Akvr
-- Email: akvr000@gmail.com
 - GitHub: https://github.com/akvr000
 
