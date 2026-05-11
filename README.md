@@ -1,4 +1,4 @@
-# My_Portfoilo
+# Portfolio-v1
 
 Welcome to my portfolio! This project showcases my skills, projects, and professional background. You can explore various sections such as Home, About, Skills, Projects, Resume, and Contact.
 
